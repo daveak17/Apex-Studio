@@ -15,7 +15,7 @@ Lead capture system
 Production-ready frontend architecture
 
 Live Demo:
-👉 https://yourusername.github.io/apex-studio-landing/
+👉 (https://daveak17.github.io/Apex-Studio/)
 
 Overview
 
